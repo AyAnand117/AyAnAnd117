@@ -271,13 +271,28 @@ Going deeper into:
 
 ---
 
-# 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyAnand117&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img
+  src="https://raw.githubusercontent.com/AyAnand117/AyAnand117/main/stats/github-overview.svg"
+  alt="GitHub Overview"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyAnand117&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/AyAnand117?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/AyAnand117?tab=stars">
+  <img src="https://img.shields.io/badge/View%20Starred%20Projects-F2C811?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 </div>
 
