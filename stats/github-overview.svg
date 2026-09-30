@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220">
+<rect width="700" height="220" rx="12" fill="#0d1117"/>
+<text x="40" y="55" fill="#58a6ff" font-size="24" font-family="Arial" font-weight="bold">GitHub Overview</text>
+<text x="40" y="105" fill="#ffffff" font-size="18" font-family="Arial">Repositories: 21</text>
+<text x="40" y="145" fill="#ffffff" font-size="18" font-family="Arial">Stars: 0</text>
+<text x="40" y="185" fill="#ffffff" font-size="18" font-family="Arial">Forks: 0</text>
+</svg>
