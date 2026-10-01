@@ -201,7 +201,7 @@ Going deeper into:
 │                 │                                       │
 │        ┌────────┴────────┐                              │
 │        ↓                 ↓                              │
-│     Voice AI        AI APIs                              │
+│     Voice AI        AI APIs                             │
 │        │                 │                              │
 │        └────────┬────────┘                              │
 │                 ↓                                       │
